@@ -6,7 +6,7 @@
 
 ## Overview
 
-This Google Colab [notebook]() demonstrates the use of the UNET architecture in training a custom model to detect and segment lungs from thoracic X-Ray images. Model training is stretched to 5 epochs only, at the end of which the model reports: ***loss:*** 5.29% and **accuracy:** 98.05%
+This Google Colab [notebook](https://github.com/georgiosouzounis/lung-seg-xray-unet/blob/main/lung_seg_xray_unet.ipynb) demonstrates the use of the UNET architecture in training a custom model to detect and segment lungs from thoracic X-Ray images. Model training is stretched to 5 epochs only, at the end of which the model reports: ***loss:*** 5.29% and **accuracy:** 98.05%
 
 ## Acknowledgements
 
