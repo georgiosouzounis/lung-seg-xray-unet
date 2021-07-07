@@ -20,8 +20,8 @@ The author would like to thank and acknowledge the following:
 
 In the following, "author" refers to Georgios Ouzounis.
 
-- The work presented in this notebook is independent from past works of the author at varius companies and institutions. It differs with regards to the technology and code being used and does not relate to any prior products, research work or IP developed by the author.
-- This notebook (code) is developed explicitly for educational purposes, demonstrating how one can train the UNET model. It is not meant for any other usage and the author has no responsibility of its outcome and deliverables, if used for a purpose different from the one stated.
+- The work presented in this notebook is independent from past works of the author at varius companies and institutions. It differs with respect to the technology, code and data being used and does not relate to any prior products, research work or IP developed by the author. 
+- This notebook (code) is developed explicitly for educational purposes, demonstrating how one can train the UNET model. It is not meant for any other usage and the author will not be held accountable of its outcome and deliverables, if used for a purpose different from the one stated.
 
 ## License
 
